@@ -1,5 +1,7 @@
 # Exercicios de PW
 
+Repositório de resolução das fichas 6A, 6B e o Mini-teste
+
 ## Ficha 6A
 
 - [x] Exercicio 1
@@ -19,6 +21,16 @@ um utilizador com privilégios de administrador. Utilizadores com privilégios d
 podem ter acesso aos eventos publicados e reservar bilhetes para os eventos. Todos
 utilizadores são inseridos diretamente na base de dados e acedem a aplicação através do
 email e password.
+>
+> - [ ] a) Desenhe um formulário e implemente funções que permitam o registo de eventos.
+Todos os campos devem ser preenchidos, obrigatoriamente.
+> - [ ] b) Crie uma tela para listagem dos eventos registados. Se o evento não tiver bilhetes
+disponíveis, deve ser apresentada a mensagem “Esgotado” com a cor vermelha e o
+botão reservar só aparece para eventos dentro do prazo.
+> - [ ] c) Implemente funções que permitam ao utilizador, com privilégios de cliente, reservar
+bilhetes.
+> - [ ] d) Desenhe um formulário de autenticação e implemente funções que permitam fazer
+login e logout no sistema.
 
 ### Usuarios
 
