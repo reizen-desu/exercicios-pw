@@ -1,6 +1,6 @@
 # Exercicios de PW
 
-Repositório de resolução das fichas 6A, 6B e o Mini-teste
+Repositório de resolução das fichas 6A, 6B e o Mini-teste.
 
 ## Ficha 6A
 
@@ -11,6 +11,8 @@ Repositório de resolução das fichas 6A, 6B e o Mini-teste
 - [x] Exercicio 5
 - [x] Exercicio 6
 - [x] Exercicio 7
+
+***
 
 ## Ficha 6B
 
@@ -37,7 +39,11 @@ login e logout no sistema.
 | Tipo de usuário | Previlégios                                                       | Acesso (login)                                                 |
 |-----------------|-------------------------------------------------------------------|----------------------------------------------------------------|
 | Administrador   | - Registar evento                                                 | username: admin<br>password: admin                             |
-| Cliente         | - Acessar eventos publicados<br>- Reservar bilhetes p/ os eventos | username: user1, user2, user3<br>password: user1, user2, user3 |
+| Cliente         | - Acessar eventos publicados<br>- Reservar bilhetes p/ os eventos | username: user1, user2<br>password: user1, user2 |
+
+### Base de dados
+
+![base-de-dados](img/esquema-eventos.png)
 
 ### Telas
 
@@ -46,3 +52,5 @@ login e logout no sistema.
 #### :exclamation: Registro de eventos
 
 #### :exclamation: visualizar eventos
+
+***
